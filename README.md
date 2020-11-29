@@ -8,4 +8,4 @@ You can see the project at https://public.tableau.com/profile/sumanth1429#!/vizh
 or
 download the tableau file and run on your pc 
 
-Note: project is named pyro inc sales analysis. pyro inc is the pseudo name given by me.this data doesn't belongs to any company
+Note: project is named pyro inc sales analysis. pyro inc is the pseudo name given by me. This data doesn't belongs to any company
